@@ -65,5 +65,5 @@ AI tools are allowed. Disclose every AI tool used and what it contributed, inclu
 - **Claude Opus 5.5** — used to create the game's original code and authored content. The embedded speech samples were separately synthesized with Microsoft Edge neural voices; see [credits.md](credits.md).
 - **OpenAI Codex (GPT-6)** — used to draft this README, including the setup instructions, controls, team details, and disclosure.
 
-See [CREDITS.md](CREDITS.md) for third-party asset sources, license links, and speech-sample licensing status.
+See [credits.md](credits.md) for third-party asset sources, license links, and speech-sample licensing status.
 
