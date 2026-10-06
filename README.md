@@ -1,4 +1,4 @@
-# ECHO
+ECHO
 
 ECHO is a browser-based, top-down stealth-action game about a blind hitman who uses sound to see. Every footstep, shot, and sonar ping briefly reveals the darkness around you—and can give away your position.
 
@@ -55,5 +55,10 @@ Stop the server with **Ctrl+C** in the terminal.
 - **Mohammed Abdur Rehman Baig** — [Indieconnect profile](https://www.indieconnect.in/@arbaig) · [abdrahmaan786@gmail.com](mailto:abdrahmaan786@gmail.com)
 - **Mohammed Rehan** — [Indieconnect profile](https://www.indieconnect.in/@rehanstudy4) · [rehanstudy4@gmail.com](mailto:rehanstudy4@gmail.com)
 
-Filter files
-+57
+## AI tools and disclosure
+
+AI tools are allowed. Disclose every AI tool used and what it contributed, including LLMs for code or text and generators for images, sound or music, and 3D assets.
+
+- **Claude Opus 5.5** — used to create the game project and its content, including code, writing, visuals, audio, and 3D assets.
+- **OpenAI Codex (GPT-6)** — used to draft this README, including the setup instructions, controls, team details, and disclosure.
+
