@@ -67,3 +67,8 @@ AI tools are allowed. Disclose every AI tool used and what it contributed, inclu
 
 See [CREDITS.md](CREDITS.md) for third-party asset sources, license links, and speech-sample licensing status.
 
+
+## License
+
+MIT. See [LICENSE.md](LICENSE.md).
+
