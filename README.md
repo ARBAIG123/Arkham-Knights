@@ -62,8 +62,8 @@ Stop the server with **Ctrl+C** in the terminal.
 
 AI tools are allowed. Disclose every AI tool used and what it contributed, including LLMs for code or text and generators for images, sound or music, and 3D assets.
 
-- **Claude Opus 5.5** — used to create the game's original code and authored content. The embedded speech samples were separately synthesized with Microsoft Edge neural voices; see [credits.md](credits.md).
+- **Claude Opus 5.5** — used to create the game's original code and authored content. The embedded speech samples were separately synthesized with Microsoft Edge neural voices; see [CREDITS.md](CREDITS.md).
 - **OpenAI Codex (GPT-6)** — used to draft this README, including the setup instructions, controls, team details, and disclosure.
 
-See [credits.md](credits.md) for third-party asset sources, license links, and speech-sample licensing status.
+See [CREDITS.md](CREDITS.md) for third-party asset sources, license links, and speech-sample licensing status.
 
