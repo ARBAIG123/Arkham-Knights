@@ -47,7 +47,8 @@ Stop the server with **Ctrl+C** in the terminal.
 | `E` | Throw a decoy |
 | `G` | Send a phantom; press `G` again to shatter it |
 | `H` | Use a medkit |
-| `R` | Reload |
+| `C` | Disguise for 5 seconds |
+| `R` | Reload; retry from checkpoint after death  |
 | `1`–`4` or mouse wheel | Switch weapons |
 | `M` | Toggle sound |
 | `Esc` or `P` | Pause and open the full controls/settings menu |
